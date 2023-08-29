@@ -1,0 +1,74 @@
+body{
+    background-color: black;
+    margin: 60px;
+    color: white;    
+}
+
+h1,div,.button{
+    font-family: "Consolas", "Courier New", monospace;
+    font-size: 14px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    
+}
+video{
+    margin-left: 500px;
+}
+div{
+    font-size: x-large;
+    padding: 40px;
+    color: white;
+    text-decoration: double;
+
+}
+.button {
+    position: center;
+    color:aqua;
+    background-color: black;
+    border: 2px solid aqua;
+    border-color:whitesmoke;
+    font-size: 30px;   
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    margin-left: 700px;
+}
+
+.bookmark{
+    color:aqua;
+    background-color: black;
+    border: 2px solid aqua;
+    border-color:whitesmoke;
+    font-size: 30px; 
+    padding: 20px;
+    width: 300px;
+    cursor: pointer;
+    font-family: "Consolas", "Courier New", monospace;
+}
+#date{
+    color: aqua;
+    font-size: larger;
+    text-align: center;
+}
+span{
+    font-family: "Consolas", "Courier New", monospace;
+    font-size: large;
+}
+p.title{
+    font-size: 25px;
+    color: aqua;
+}
+footer{
+    font-family: "Consolas", "Courier New", monospace;
+    background-color:lightseagreen;
+    text-indent: 50px;
+    color:black;
+}  
+
+
